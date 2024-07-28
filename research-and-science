@@ -1,0 +1,65 @@
+| **#** | **Alternative**        | **Description**                                                                 | **Type**          | **Platform**               |
+|-------|------------------------|---------------------------------------------------------------------------------|-------------------|----------------------------|
+| 1     | Citizendium            | A wiki that focuses on expert contributions and community engagement.            | Wiki              | Web                        |
+| 2     | Everipedia             | A modern encyclopedia utilizing blockchain technology.                          | Wiki              | Web, Android, iOS         |
+| 3     | Wikiversity            | An educational platform where users can create and share learning materials.    | Educational        | Web                        |
+| 4     | Scholarpedia           | A peer-reviewed encyclopedia contributed by academics.                            | Wiki              | Web                        |
+| 5     | Encyclopedia.com        | A comprehensive reference site with articles from various credible sources.     | Reference Site     | Web                        |
+| 6     | Britannica             | A well-established encyclopedia providing detailed articles on various topics.  | Reference Site     | Web                        |
+| 7     | Infoplease             | A resource that offers consolidated information on numerous topics.             | Reference Site     | Web                        |
+| 8     | OpenStax               | Provides free educational materials and textbooks.                              | Educational        | Web                        |
+| 9     | World Factbook         | A resource providing detailed country statistics and information.                | Reference Site     | Web                        |
+| 10    | Fandom                 | A collaborative wiki focused on fan content related to media franchises.        | Wiki              | Web                        |
+| 11    | WikiHow                | A wiki dedicated to creating how-to guides and instructional content.          | Wiki              | Web                        |
+| 12    | Wikia                  | A platform for collaborative content creation around various fandoms.           | Wiki              | Web                        |
+| 13    | Quora                  | A question-and-answer platform where users can share knowledge and insights.    | Discussion         | Web                        |
+| 14    | Reddit                 | A network of communities based on people's interests, where information is shared. | Forum             | Web                        |
+| 15    | Stack Exchange         | A network of Q&A communities for various subjects, focusing on expertise.      | Discussion         | Web                        |
+| 16    | HowStuffWorks          | A website that explains how things work and provides multiple educational resources. | Informational    | Web                        |
+| 17    | Simple Wikipedia       | A simplified version of Wikipedia aimed at younger readers and non-native speakers. | Wiki            | Web                        |
+| 18    | Conservapedia          | A conservative-leaning online encyclopedia.                                      | Wiki              | Web                        |
+| 19    | Scholarpedia           | An encyclopedia with peer-reviewed content from experts in various fields.      | Wiki              | Web                        |
+| 20    | Snopes                 | A fact-checking website that investigates and debunks rumors and misinformation.| Fact-Checking      | Web                        |
+| 21    | History.com            | A resource focused on historical articles and information.                       | Reference Site     | Web                        |
+| 22    | National Geographic     | Provides articles on geography, history, and science with a focus on nature.   | Reference Site     | Web                        |
+| 23    | HowStuffWorks          | Explains how products and processes work, offering educational insights.       | Informational     | Web                        |
+| 24    | Mental Floss           | A site that shares interesting articles on a variety of topics.                 | Informational     | Web                        |
+| 25    | ThoughtCo              | A website providing educational content across several subjects.                 | Educational        | Web                        |
+| 26    | TheFreeDictionary       | An online dictionary that also provides encyclopedic information.               | Reference Site     | Web                        |
+| 27    | Encyclopedia of Life   | A digital encyclopedia that documents all living species on Earth.              | Reference Site     | Web                        |
+| 28    | The Internet Archive    | A digital library offering free access to a vast range of archived web pages.   | Archive            | Web                        |
+| 29    | Project Gutenberg      | A digital library of free eBooks, focusing on older literary works.             | Library            | Web                        |
+| 30    | DistroWatch            | An online resource for tracking Linux distributions and related software.       | Informational      | Web                        |
+| 31    | Theory of Knowledge    | A community-driven space for exploring various theories and concepts.           | Educational        | Web                        |
+| 32    | BookRags               | Study guides and summaries for literature and history.                          | Educational        | Web                        |
+| 33    | Google Scholar         | A freely accessible web search engine that indexes scholarly articles.          | Research           | Web                        |
+| 34    | Academia.edu           | A platform for academics to share research papers and articles.                 | Research           | Web                        |
+| 35    | ResearchGate           | A professional network for researchers to share papers, ask and answer questions. | Research          | Web                        |
+| 36    | Open Library           | An open-source library with a goal of making all published works available.    | Library            | Web                        |
+| 37    | Citationsy             | An online tool for reference management and citation generation.                | Educational        | Web                        |
+| 38    | Zotero                 | A free, easy-to-use tool to help you collect, organize, cite, and share research. | Research          | Web                        |
+| 39    | CiteSeerX             | A digital library and search engine for scientific and academic papers.          | Research           | Web                        |
+| 40    | RefSeek                | A search engine for students and researchers to find academic resources.        | Educational        | Web                        |
+| 41    | Muck Rack              | A database of journalists and their reporting.                                   | Networking         | Web                        |
+| 42    | Researcher’s Gate      | A social networking site for researchers to share and collaborate.              | Research           | Web                        |
+| 43    | Core                   | A multidisciplinary aggregator of open access research papers.                  | Research           | Web                        |
+| 44    | PubMed                 | A free database of references and abstracts on life sciences and biomedical topics. | Research          | Web                        |
+| 45    | arXiv                  | A repository of electronic preprints in various scientific fields.              | Research           | Web                        |
+| 46    | ScienceDirect          | A leading full-text scientific database offering journal articles from various fields. | Research          | Web                        |
+| 47    | SpringerLink          | Provides access to millions of scientific documents from journals, books, and reference works. | Research          | Web                        |
+| 48    | Wiley Online Library   | Access to a broad range of scholarly journals and research articles.            | Research           | Web                        |
+| 49    | JSTOR                  | A digital library for academic journals, books, and primary sources.           | Research           | Web                        |
+| 50    | Sci-Hub                | A website providing free access to millions of academic papers.                  | Research           | Web                        |
+| 51    | Internet Pedia        | A user-contributed encyclopedia on various topics related to the internet.      | Wiki              | Web                        |
+| 52    | CNET                   | Technology product reviews, news, articles, and other content.                  | Informational      | Web                        |
+| 53    | Techopedia             | A resource for technology-related articles, definitions, and guides.            | Informational      | Web                        |
+| 54    | Investopedia           | A resource for investing, finance, and business knowledge.                      | Educational        | Web                        |
+| 55    | Law.com                | Coverage on legal news and analysis, along with case law.                      | Informational      | Web                        |
+| 56    | Healthline             | Medical information and health advice from professionals.                       | Informational      | Web                        |
+| 57    | Mayo Clinic            | A nonprofit organization providing expert medical information.                   | Informational      | Web                        |
+| 58    | WebMD                  | Health information and advice from medical professionals.                       | Informational      | Web                        |
+| 59    | FamilyDoctor.org       | A resource for trusted health information for various conditions.                | Informational      | Web                        |
+| 60    | Healthfinder           | A website that helps users find reliable health information and resources.      | Informational      | Web                        |
+| 61    | Drugs.com              | Information about prescription drugs, over-the-counter medications, and herbs. | Informational      | Web                        |
+| 62    | MedlinePlus           | A service of the U.S. National Library of Medicine providing high-quality health information. | Informational      | Web                    
+| 63    | Ask.com                | A question-answering service powered by a search engine.                        | Search Engine      | Web                        |
